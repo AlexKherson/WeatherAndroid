@@ -5,4 +5,8 @@
     <string name="status">status</string>
     <string name="humidity">humidity</string>
     <string name="wind">wind</string>
+    <string name="day_of_week">day of week</string>
+    <string name="status_of_day">status_of_day</string>
+    <string name="temp_min_of_day">temp_min_of_day</string>
+    <string name="temp_max_of_day">temp_max_of_day</string>
 </resources>

@@ -12,6 +12,7 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:id="@+id/tv_town"
         android:text="@string/town"
         android:textSize="25sp"
         android:layout_gravity="center_horizontal"/>
@@ -29,6 +30,7 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+
             android:text="@string/temperature"
             android:gravity="center"
             android:layout_weight="1">
@@ -38,6 +40,7 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:id="@+id/tv_temperature"
             android:text="@string/temperature"
             android:gravity="center"
             android:layout_weight="1">
@@ -63,6 +66,7 @@
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+            android:id="@+id/tv_status"
             android:text="@string/status"
             android:layout_gravity="center_horizontal"
             android:layout_weight="1">
@@ -71,6 +75,7 @@
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+            android:id="@+id/tv_humidity"
             android:text="@string/humidity"
             android:layout_gravity="center_horizontal"
             android:layout_weight="1">
@@ -79,6 +84,7 @@
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+            android:id="@+id/tv_wind"
             android:text="@string/wind"
             android:layout_gravity="center_horizontal"
             android:layout_weight="1">
