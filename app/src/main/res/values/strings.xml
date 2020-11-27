@@ -9,4 +9,8 @@
     <string name="status_of_day">status_of_day</string>
     <string name="temp_min_of_day">temp_min_of_day</string>
     <string name="temp_max_of_day">temp_max_of_day</string>
+    <string name="setting">setting</string>
+    <string name="location">location</string>
+    <string name="style">style</string>
+    <string name="info">info</string>
 </resources>
